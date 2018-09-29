@@ -1,5 +1,5 @@
 {
-  "name": "michaelmontalban",
+  "name": "mm",
   "private": true,
   "version": "0.0.0",
   "description": "a Sails application",
@@ -27,7 +27,7 @@
   "main": "app.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/michaelmoncayo/michaelmontalban.git"
+    "url": "git://github.com/michaelmoncayo/mm.git"
   },
   "author": "michaelmoncayo",
   "license": "",

@@ -1,4 +1,4 @@
-# michaelmontalban
+# mm
 
 a [Sails v1](https://sailsjs.com) application
 
@@ -15,7 +15,7 @@ a [Sails v1](https://sailsjs.com) application
 
 ### Version info
 
-This app was originally generated on Fri Sep 28 2018 13:50:17 GMT-0400 (EDT) using Sails v1.0.2.
+This app was originally generated on Sat Sep 29 2018 12:41:52 GMT-0400 (EDT) using Sails v1.0.2.
 
 <!-- Internally, Sails used [`sails-generate@1.15.28`](https://github.com/balderdashy/sails-generate/tree/v1.15.28/lib/core-generators/new). -->
 
